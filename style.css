@@ -1,0 +1,98 @@
+
+.divBarra{
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.logo{
+  width: 150px;
+  height: 45px;
+  margin-left: 5px;
+}
+
+.barra{
+  height: 30px;
+  width: 570px;
+  font-size: 20px;
+  margin-left: 70px;
+}
+
+.microfono{
+  height: 40px;
+  width: 40px;
+  border-radius: 30px;
+  margin-left: 600px;
+  background-color: white;
+  margin-left: 45px;
+}
+
+.imgmicro{
+  height: 25px;
+  width: 25px;
+  
+}
+
+.botonNoti{
+  background-color: white;
+  border: 1px solid #ffffff;
+}
+
+.crear{
+  width: 35px;
+  height: 30px;
+}
+
+.imagenes{
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+}
+
+.usuario{
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  margin-top: 2px;
+}
+
+.botonUsuario{
+  width: 30px;
+  height: 30px;
+  background-color: white; 
+  border: 1px solid #ffffff;
+}
+.contenedor {
+  display: flex;
+}
+
+.div-izquierdo {
+  width: 285px;
+  flex-shrink: 5;
+}
+
+.div-derecho {
+  flex-grow: 1;
+}
+
+
+.pantalla{
+  margin-top: 20px;
+}
+
+.pantalla2{
+  border: 1px solid #747272;
+  height: 645px;
+}
+.container {
+  display: flex;
+}
+
+.div1 {
+  flex: 2.8;
+  padding: 10px;
+}
+
+.div2 {
+  flex: 1;
+  padding: 10px;
+}
+
